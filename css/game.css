@@ -16,7 +16,7 @@
     transform-style: preserve-3d;
 }
 
-.game-card:hover{
+.reveal-card{
     transform: rotateY(180deg);
 }
 
@@ -36,6 +36,5 @@
 }
 
 .game-front{
-    background-image: url('../images/bob1.jpg');
     transform: rotateY(180deg);
 }
